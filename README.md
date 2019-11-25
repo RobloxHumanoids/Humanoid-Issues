@@ -1,6 +1,8 @@
-# Humanoid bug site
+# Humanoid issues
 
-This website serves as a central knowledgebase to document known bugs with humanoids and how to work around them. This list is updated often.
+The documentation here serves to document known bugs with humanoids and how to work around them. This list is updated often.
+
+To view the documentation, please visit the [documentation site](https://robloxhumanoids.github.io).
 
 # Contributing
 
