@@ -5,8 +5,8 @@ site_description: Documentation for known humanoid bugs
 site_author: Jayden Charbonneau
 
 # Repo config
-repo_name: RobloxHumanoids.github.io
-repo_url: https://github.com/robloxhumanoids/robloxhumanoids.github.io
+repo_name: Humanoid Issues
+repo_url: https://github.com/robloxhumanoids/Humanoid-Issues
 edit_uri: ""
 
 # Theme
