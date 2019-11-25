@@ -6,7 +6,11 @@ This website serves as a central knowledgebase to document known bugs with human
 
 ## Contributing
 
-If you know of a humanoid bug and it is not documented here on this site, or you see outdated/missing information, please submit a [pull request](https://github.com/RobloxHumanoids/Humanoid-Issues/pulls) or [submit an issue](https://github.com/RobloxHumanoids/Humanoid-Issues/issues). When submitting pull requests for undocumented humanoid bugs, please be sure to have clear and detailed information about the bug, with a solid reproduction. Please make sure to also link any relevant bug report threads from the devforums. When submitting a new bug, make sure to also create new symptoms in the symptoms list as well.
+If you know of a humanoid bug and it is not documented here on this site, or you see outdated/missing information, please submit a [pull request](https://github.com/RobloxHumanoids/Humanoid-Issues/pulls) or [submit an issue](https://github.com/RobloxHumanoids/Humanoid-Issues/issues). When submitting pull requests for undocumented humanoid bugs, please ensure the following:
+
+- The bug has a detailed description and enough information to be of use. Developers will be referencing this site to save time when facing issues with avatars!
+- Any new symptoms that the bug causes are documented in the [symptoms section](./Symptoms.md)
+- Any links to relevant bug reports that have been filed on the developer forums are included.
 
 ### Bug format
 
